@@ -155,10 +155,10 @@ const App = () => {
   // 🟡 Get status color
   const getStatusColor = (status) => {
     switch (status) {
-      case "success": return "bg-green-50 text-green-700 border-green-200";
-      case "error": return "bg-red-50 text-red-700 border-red-200";
-      case "loading": return "bg-blue-50 text-blue-700 border-blue-200";
-      default: return "bg-gray-50 text-gray-700 border-gray-200";
+      case "success": return "bg-green-900 text-green-200 border-green-700";
+      case "error": return "bg-red-900 text-red-200 border-red-700";
+      case "loading": return "bg-blue-900 text-blue-200 border-blue-700";
+      default: return "bg-gray-800 text-gray-200 border-gray-700";
     }
   };
 
@@ -167,23 +167,23 @@ const App = () => {
     switch (status) {
       case "success": 
         return (
-          <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-4 h-4 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
           </svg>
         );
       case "error":
         return (
-          <svg className="w-4 h-4 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-4 h-4 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path>
           </svg>
         );
       case "loading":
         return (
-          <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-600"></div>
+          <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-400"></div>
         );
       default:
         return (
-          <div className="w-4 h-4 rounded-full bg-gray-400"></div>
+          <div className="w-4 h-4 rounded-full bg-gray-500"></div>
         );
     }
   };
@@ -191,11 +191,12 @@ const App = () => {
   return (
     <>
     {/* <Convert/> */}
-    <div className="min-h-screen bg-gray-50 flex flex-col md:flex-row">
+    {/* Dark background for the entire app */}
+    <div className="min-h-screen bg-gray-900 text-gray-100 flex flex-col md:flex-row">
       {/* Main Form Section */}
       <div className="md:w-2/3 p-6">
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
-          <h1 className="text-2xl font-semibold text-gray-800 mb-6">Fee Submission Portal</h1>
+        <div className="bg-gray-800 rounded-lg shadow-lg border border-gray-700 p-6">
+          <h1 className="text-2xl font-semibold text-gray-100 mb-6">Fee Submission Portal</h1>
 
           {/* Admission No Search */}
           <div className="flex gap-3 mb-6">
@@ -206,7 +207,7 @@ const App = () => {
               onChange={(e) => setAdmissionNo(e.target.value)}
               onKeyDown={handleAdmissionNoKeyDown} // Add keydown handler
               ref={admissionNoInputRef} // Assign the ref to the admission no input
-              className="flex-1 px-4 py-2 border rounded-md focus:ring-2 focus:ring-blue-500 border-gray-300 bg-white text-gray-800"
+              className="flex-1 px-4 py-2 border rounded-md focus:ring-2 focus:ring-blue-500 border-gray-600 bg-gray-700 text-gray-100 placeholder-gray-400"
             />
             <button
               onClick={handleSearch}
@@ -218,18 +219,18 @@ const App = () => {
 
           {/* Show Student Details */}
           {student && (
-            <div className="bg-gray-50 rounded-md p-4 mb-6 text-gray-700 space-y-2 border border-gray-200">
+            <div className="bg-gray-700 rounded-md p-4 mb-6 text-gray-200 space-y-2 border border-gray-600">
               <div className="grid grid-cols-2 gap-4">
                 <div>
-                  <p className="text-sm text-gray-500">Name</p>
+                  <p className="text-sm text-gray-400">Name</p>
                   <p className="font-medium">{student.name}</p>
                 </div>
                 <div>
-                  <p className="text-sm text-gray-500">Class</p>
+                  <p className="text-sm text-gray-400">Class</p>
                   <p className="font-medium">{student.class}</p>
                 </div>
                 <div>
-                  <p className="text-sm text-gray-500">Team</p>
+                  <p className="text-sm text-gray-400">Team</p>
                   <p className="font-medium">{student.team || "—"}</p>
                 </div>
               </div>
@@ -240,7 +241,7 @@ const App = () => {
           {student && (
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
-                <label className="block text-gray-700 font-medium mb-1">
+                <label className="block text-gray-300 font-medium mb-1">
                   Amount (₹)
                 </label>
                 <input
@@ -249,7 +250,7 @@ const App = () => {
                   value={amount}
                   onChange={(e) => setAmount(e.target.value)}
                   ref={amountInputRef} // Assign the ref to the amount input
-                  className="w-full px-4 py-2 border rounded-md focus:ring-2 focus:ring-blue-500 border-gray-300 bg-white text-gray-800"
+                  className="w-full px-4 py-2 border rounded-md focus:ring-2 focus:ring-blue-500 border-gray-600 bg-gray-700 text-gray-100 placeholder-gray-400"
                 />
               </div>
 
@@ -262,7 +263,7 @@ const App = () => {
             </form>
           )}
 
-          <p className="text-center text-gray-500 mt-6 text-sm">
+          <p className="text-center text-gray-400 mt-6 text-sm">
             Requests will be processed sequentially in the queue
           </p>
         </div>
@@ -270,11 +271,11 @@ const App = () => {
 
       {/* Queue Status Section */}
       <div className="md:w-1/3 p-6">
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6 h-full">
-          <h2 className="text-lg font-semibold text-gray-800 mb-4">Request Queue</h2>
+        <div className="bg-gray-800 rounded-lg shadow-lg border border-gray-700 p-6 h-full">
+          <h2 className="text-lg font-semibold text-gray-100 mb-4">Request Queue</h2>
           
           {requestQueue.length === 0 ? (
-            <div className="text-center py-8 text-gray-500">
+            <div className="text-center py-8 text-gray-400">
               <p>No requests in queue</p>
               <p className="text-sm mt-1">Submit a payment to see it here</p>
             </div>
@@ -290,7 +291,7 @@ const App = () => {
                       {getStatusIcon(request.status)}
                       <span className="font-medium capitalize">{request.status}</span>
                     </div>
-                    <span className="text-xs text-gray-500">{request.timestamp}</span>
+                    <span className="text-xs text-gray-400">{request.timestamp}</span>
                   </div>
                   
                   <div className="mt-2 space-y-1">
@@ -300,7 +301,7 @@ const App = () => {
                       <span className="font-semibold">₹{request.amount}</span>
                     </div>
                     {request.message && (
-                      <p className="text-xs mt-1 text-gray-600 truncate">{request.message}</p>
+                      <p className="text-xs mt-1 text-gray-300 truncate">{request.message}</p>
                     )}
                   </div>
                 </div>
