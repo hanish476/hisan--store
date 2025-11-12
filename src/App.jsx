@@ -9,7 +9,8 @@ const App = () => {
   const [requestQueue, setRequestQueue] = useState([]);
   const [isProcessing, setIsProcessing] = useState(false);
 
-  // Ref for the amount input field
+  // Refs for the input fields
+  const admissionNoInputRef = useRef(null);
   const amountInputRef = useRef(null);
 
   useEffect(() => {
@@ -18,7 +19,12 @@ const App = () => {
     if (!sheetUrl) {
       console.error("VITE_SHEETURL environment variable is not set");
     }
-  }, []);
+
+    // Focus the admission number input when the component mounts (page loads)
+    if (admissionNoInputRef.current) {
+      admissionNoInputRef.current.focus();
+    }
+  }, []); // Empty dependency array means this runs only once on mount
 
   // 🔵 Add request to queue
   const addToQueue = (payload) => {
@@ -63,6 +69,18 @@ const App = () => {
     e.preventDefault();
     if (!student || !amount) {
       alert("Missing student or amount.");
+      // If missing, keep focus on the respective field if possible
+      if (!student) {
+         // Student is missing, focus admission number
+         if (admissionNoInputRef.current) {
+             admissionNoInputRef.current.focus();
+         }
+      } else if (!amount) {
+          // Amount is missing, focus amount
+          if (amountInputRef.current) {
+              amountInputRef.current.focus();
+          }
+      }
       return;
     }
 
@@ -77,10 +95,10 @@ const App = () => {
     setAdmissionNo("");
     setStudent(null);
     setAmount("");
-    // Optionally, refocus the admission number input after submission
-    // if (admissionNoInputRef) { // You would need another ref for this
-    //   admissionNoInputRef.current.focus();
-    // }
+    // Refocus the admission number input after successful submission
+    if (admissionNoInputRef.current) {
+      admissionNoInputRef.current.focus();
+    }
   };
 
   // 🔄 Process queue items one by one
@@ -138,7 +156,7 @@ const App = () => {
   const getStatusColor = (status) => {
     switch (status) {
       case "success": return "bg-green-50 text-green-700 border-green-200";
-      case "error": return "bg-red-50 text-green-700 border-red-200";
+      case "error": return "bg-red-50 text-red-700 border-red-200";
       case "loading": return "bg-blue-50 text-blue-700 border-blue-200";
       default: return "bg-gray-50 text-gray-700 border-gray-200";
     }
@@ -187,9 +205,8 @@ const App = () => {
               value={admissionNo}
               onChange={(e) => setAdmissionNo(e.target.value)}
               onKeyDown={handleAdmissionNoKeyDown} // Add keydown handler
+              ref={admissionNoInputRef} // Assign the ref to the admission no input
               className="flex-1 px-4 py-2 border rounded-md focus:ring-2 focus:ring-blue-500 border-gray-300 bg-white text-gray-800"
-              // Optional: Add a ref if you need to focus the admission no field elsewhere
-              // ref={admissionNoInputRef} 
             />
             <button
               onClick={handleSearch}
