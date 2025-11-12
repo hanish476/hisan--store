@@ -1,0 +1,1507 @@
+[
+  {
+    "admissionNo": "777",
+    "name": "AFVAS P.V",
+    "class": "1"
+  },
+  {
+    "admissionNo": "788",
+    "name": "Ahmed Yaseen UA",
+    "class": "1"
+  },
+  {
+    "admissionNo": "789",
+    "name": "Aman Hamza",
+    "class": "1"
+  },
+  {
+    "admissionNo": "790",
+    "name": "mohammed Subhan K R",
+    "class": "1"
+  },
+  {
+    "admissionNo": "791",
+    "name": "MOHAMMED HAADI",
+    "class": "1"
+  },
+  {
+    "admissionNo": "792",
+    "name": "ZAIN ABDULLA PA",
+    "class": "1"
+  },
+  {
+    "admissionNo": "793",
+    "name": "Mohammed Aman",
+    "class": "1"
+  },
+  {
+    "admissionNo": "794",
+    "name": "Mohammed Irshad K M",
+    "class": "1"
+  },
+  {
+    "admissionNo": "795",
+    "name": "Abdul Fathah K A",
+    "class": "1"
+  },
+  {
+    "admissionNo": "796",
+    "name": "Mohammed Basith",
+    "class": "1"
+  },
+  {
+    "admissionNo": "797",
+    "name": "Adhnan Ahmed",
+    "class": "1"
+  },
+  {
+    "admissionNo": "798",
+    "name": "Mohammed Sabir T S",
+    "class": "1"
+  },
+  {
+    "admissionNo": "799",
+    "name": "Mohammed Rayhan",
+    "class": "1"
+  },
+  {
+    "admissionNo": "800",
+    "name": "Mohammed Simak",
+    "class": "1"
+  },
+  {
+    "admissionNo": "801",
+    "name": "Mohammed Ishan K",
+    "class": "1"
+  },
+  {
+    "admissionNo": "802",
+    "name": "Mohammed Zayyan",
+    "class": "1"
+  },
+  {
+    "admissionNo": "803",
+    "name": "Mohammed Aflah T P",
+    "class": "1"
+  },
+  {
+    "admissionNo": "804",
+    "name": "Thoufeeq R U",
+    "class": "1"
+  },
+  {
+    "admissionNo": "805",
+    "name": "Mohammed Swalih",
+    "class": "1"
+  },
+  {
+    "admissionNo": "806",
+    "name": "Mohammed Razal",
+    "class": "1"
+  },
+  {
+    "admissionNo": "807",
+    "name": "Mohammed Rizwan",
+    "class": "1"
+  },
+  {
+    "admissionNo": "808",
+    "name": "Mohammed Hadhi M",
+    "class": "1"
+  },
+  {
+    "admissionNo": "809",
+    "name": "Mohammed Shamil C V",
+    "class": "1"
+  },
+  {
+    "admissionNo": "810",
+    "name": "Mohammed Shahan K",
+    "class": "1"
+  },
+  {
+    "admissionNo": "812",
+    "name": "Mishbahul Haq",
+    "class": "1"
+  },
+  {
+    "admissionNo": "813",
+    "name": "Mohammed Minhaj C M",
+    "class": "1"
+  },
+  {
+    "admissionNo": "814",
+    "name": "Abdul Hadhi E K",
+    "class": "1"
+  },
+  {
+    "admissionNo": "815",
+    "name": "Ubaidulla K T",
+    "class": "1"
+  },
+  {
+    "admissionNo": "816",
+    "name": "Mohammed Ameen",
+    "class": "1"
+  },
+  {
+    "admissionNo": "817",
+    "name": "Ahmed Ajaz P M",
+    "class": "1"
+  },
+  {
+    "admissionNo": "746",
+    "name": "SHAMEEM FARHAN. K.S",
+    "class": "2"
+  },
+  {
+    "admissionNo": "747",
+    "name": "ABDUL HANNAN. KT",
+    "class": "2"
+  },
+  {
+    "admissionNo": "748",
+    "name": "MUHAMMED AMEEN K S",
+    "class": "2"
+  },
+  {
+    "admissionNo": "749",
+    "name": "MUHAMMED RAYYAN ANSARI",
+    "class": "2"
+  },
+  {
+    "admissionNo": "750",
+    "name": "HAMID YASIN V S",
+    "class": "2"
+  },
+  {
+    "admissionNo": "751",
+    "name": "MUHAMMED A S",
+    "class": "2"
+  },
+  {
+    "admissionNo": "752",
+    "name": "SAFWAN SALMI N A",
+    "class": "2"
+  },
+  {
+    "admissionNo": "753",
+    "name": "MUHAMMED ZAINUDHEEN IRFAN A.A",
+    "class": "2"
+  },
+  {
+    "admissionNo": "754",
+    "name": "Muhammed Mazahim K A",
+    "class": "2"
+  },
+  {
+    "admissionNo": "755",
+    "name": "ABDUL WASIH K .V",
+    "class": "2"
+  },
+  {
+    "admissionNo": "756",
+    "name": "SHAHBAZ AHMAD",
+    "class": "2"
+  },
+  {
+    "admissionNo": "757",
+    "name": "ABDUL HADHI. V. R.",
+    "class": "2"
+  },
+  {
+    "admissionNo": "758",
+    "name": "MUHAMMED MISBAH M.E",
+    "class": "2"
+  },
+  {
+    "admissionNo": "759",
+    "name": "MUHAMMED SWALIH PS",
+    "class": "2"
+  },
+  {
+    "admissionNo": "760",
+    "name": "MUHAMMED ADNAN M H",
+    "class": "2"
+  },
+  {
+    "admissionNo": "761",
+    "name": "MUHAMMAD AJMAL A",
+    "class": "2"
+  },
+  {
+    "admissionNo": "762",
+    "name": "MUHAMMED HAMDAN C",
+    "class": "2"
+  },
+  {
+    "admissionNo": "763",
+    "name": "MUHAMMED NIHAD K",
+    "class": "2"
+  },
+  {
+    "admissionNo": "766",
+    "name": "MHD QASIM.V.M",
+    "class": "2"
+  },
+  {
+    "admissionNo": "765",
+    "name": "MUHAMMED ISHAL P A",
+    "class": "2"
+  },
+  {
+    "admissionNo": "767",
+    "name": "MUHAMMED DHIYAN P",
+    "class": "2"
+  },
+  {
+    "admissionNo": "768",
+    "name": "FAAZ MUHAMMED K",
+    "class": "2"
+  },
+  {
+    "admissionNo": "769",
+    "name": "MUHAMMED RABEEH K",
+    "class": "2"
+  },
+  {
+    "admissionNo": "770",
+    "name": "MOHAMMED JASIM C",
+    "class": "2"
+  },
+  {
+    "admissionNo": "771",
+    "name": "MUHAMMAD SHAMIL EK",
+    "class": "2"
+  },
+  {
+    "admissionNo": "772",
+    "name": "AMAN AFLAH PK",
+    "class": "2"
+  },
+  {
+    "admissionNo": "773",
+    "name": "MOHAMMED SALIH NP",
+    "class": "2"
+  },
+  {
+    "admissionNo": "774",
+    "name": "ABDULLA ANOOS",
+    "class": "2"
+  },
+  {
+    "admissionNo": "775",
+    "name": "Ali Munthasir K F",
+    "class": "2"
+  },
+  {
+    "admissionNo": "776",
+    "name": "MOHAMMED NAFIH",
+    "class": "2"
+  },
+  {
+    "admissionNo": "778",
+    "name": "SAHAL K.S",
+    "class": "2"
+  },
+  {
+    "admissionNo": "787",
+    "name": "MUHAMMED RISHAL K P",
+    "class": "2"
+  },
+  {
+    "admissionNo": "742",
+    "name": "MUHAMMED UA",
+    "class": "2"
+  },
+  {
+    "admissionNo": "694",
+    "name": "SAYEED A S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "707",
+    "name": "JAWHAR SIDDIQUE",
+    "class": "3"
+  },
+  {
+    "admissionNo": "708",
+    "name": "ABDUL BASITH K A",
+    "class": "3"
+  },
+  {
+    "admissionNo": "709",
+    "name": "MUHAMMAD AMAN AA",
+    "class": "3"
+  },
+  {
+    "admissionNo": "710",
+    "name": "MUHAMMED ATHIF. U. A",
+    "class": "3"
+  },
+  {
+    "admissionNo": "712",
+    "name": "MUHAMMED ALIM ZAYYAN.K.A",
+    "class": "3"
+  },
+  {
+    "admissionNo": "713",
+    "name": "MUHAMMED SINAN P.A",
+    "class": "3"
+  },
+  {
+    "admissionNo": "714",
+    "name": "SHANAJ KADER. M.N",
+    "class": "3"
+  },
+  {
+    "admissionNo": "715",
+    "name": "MUHAMMAD FAHEEM K M",
+    "class": "3"
+  },
+  {
+    "admissionNo": "716",
+    "name": "MUHAMMED SHABEEB T S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "717",
+    "name": "MUHAMMED FAZAL C S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "719",
+    "name": "MUHAMMED SINAN T S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "720",
+    "name": "MUHAMMED FAHEEM KK",
+    "class": "3"
+  },
+  {
+    "admissionNo": "722",
+    "name": "MUHAMMED SHAMMAS M S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "724",
+    "name": "MUHAMMAD ADHNAN M S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "725",
+    "name": "Muhammed Arshad S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "726",
+    "name": "MOHAMMED MIDHLAJ P",
+    "class": "3"
+  },
+  {
+    "admissionNo": "727",
+    "name": "MUHAMMED RAZEEN MK",
+    "class": "3"
+  },
+  {
+    "admissionNo": "728",
+    "name": "MUHAMMED LABEEB.KK",
+    "class": "3"
+  },
+  {
+    "admissionNo": "729",
+    "name": "MUHAMMAD AMEEN V S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "730",
+    "name": "ADNAN K P",
+    "class": "3"
+  },
+  {
+    "admissionNo": "731",
+    "name": "MUHAMMED SWABEEH T S",
+    "class": "3"
+  },
+  {
+    "admissionNo": "732",
+    "name": "Muhammed Nihal",
+    "class": "3"
+  },
+  {
+    "admissionNo": "733",
+    "name": "MUHAMMAD ASLAM K A",
+    "class": "3"
+  },
+  {
+    "admissionNo": "736",
+    "name": "RAHI AMEEN K",
+    "class": "3"
+  },
+  {
+    "admissionNo": "738",
+    "name": "MOHAMED P M",
+    "class": "3"
+  },
+  {
+    "admissionNo": "739",
+    "name": "MOHAMMED IRFAN R M",
+    "class": "3"
+  },
+  {
+    "admissionNo": "741",
+    "name": "MUHAMMED RABEEATH",
+    "class": "3"
+  },
+  {
+    "admissionNo": "743",
+    "name": "MUHAMMED HASEEB P H",
+    "class": "3"
+  },
+  {
+    "admissionNo": "744",
+    "name": "MUHAMMED ASIF.T.K",
+    "class": "3"
+  },
+  {
+    "admissionNo": "745",
+    "name": "MUHAMMAD HANAN KT",
+    "class": "3"
+  },
+  {
+    "admissionNo": "632",
+    "name": "MUHAMMED RIYAD",
+    "class": "4"
+  },
+  {
+    "admissionNo": "646",
+    "name": "MAHMOOD AMEEN",
+    "class": "4"
+  },
+  {
+    "admissionNo": "671",
+    "name": "ADIL SHAN MK",
+    "class": "4"
+  },
+  {
+    "admissionNo": "667",
+    "name": "AHAMMED SAFWAN SH",
+    "class": "4"
+  },
+  {
+    "admissionNo": "672",
+    "name": "AMEEN HAMSA",
+    "class": "4"
+  },
+  {
+    "admissionNo": "676",
+    "name": "ANSIF AZEEZ",
+    "class": "4"
+  },
+  {
+    "admissionNo": "687",
+    "name": "FARHAN FAROOK",
+    "class": "4"
+  },
+  {
+    "admissionNo": "677",
+    "name": "IRSHADUDHEEN K A",
+    "class": "4"
+  },
+  {
+    "admissionNo": "685",
+    "name": "JASIM ISMAYIL",
+    "class": "4"
+  },
+  {
+    "admissionNo": "659",
+    "name": "MAHMOOD P M",
+    "class": "4"
+  },
+  {
+    "admissionNo": "674",
+    "name": "MIDLAJ POOVANCHERI",
+    "class": "4"
+  },
+  {
+    "admissionNo": "663",
+    "name": "MOHAMED MUBASHIR",
+    "class": "4"
+  },
+  {
+    "admissionNo": "683",
+    "name": "MOHAMMED SHAMIL KK",
+    "class": "4"
+  },
+  {
+    "admissionNo": "664",
+    "name": "MUBASHIR SHAKAMAL E.N",
+    "class": "4"
+  },
+  {
+    "admissionNo": "673",
+    "name": "MUHAMMAD ADHIL E",
+    "class": "4"
+  },
+  {
+    "admissionNo": "686",
+    "name": "MUHAMMAD FADIL MA",
+    "class": "4"
+  },
+  {
+    "admissionNo": "661",
+    "name": "MUHAMMAD K S",
+    "class": "4"
+  },
+  {
+    "admissionNo": "679",
+    "name": "MUHAMMAD NAFIH",
+    "class": "4"
+  },
+  {
+    "admissionNo": "670",
+    "name": "MUHAMMAD NASEEM. K.T",
+    "class": "4"
+  },
+  {
+    "admissionNo": "660",
+    "name": "MUHAMMED ADHNAN E M",
+    "class": "4"
+  },
+  {
+    "admissionNo": "665",
+    "name": "MUHAMMED ADIL S",
+    "class": "4"
+  },
+  {
+    "admissionNo": "669",
+    "name": "MUHAMMED ALTHAF TP",
+    "class": "4"
+  },
+  {
+    "admissionNo": "662",
+    "name": "MUHAMMED AZEEF K.A",
+    "class": "4"
+  },
+  {
+    "admissionNo": "684",
+    "name": "MUHAMMED NIHAL.K",
+    "class": "4"
+  },
+  {
+    "admissionNo": "655",
+    "name": "Muhammed Shimlal.KP",
+    "class": "4"
+  },
+  {
+    "admissionNo": "666",
+    "name": "MUHAMMED SINAN.P",
+    "class": "4"
+  },
+  {
+    "admissionNo": "681",
+    "name": "MUHAMMED THAMEEM KONDOTIIKKARAN",
+    "class": "4"
+  },
+  {
+    "admissionNo": "690",
+    "name": "MUHAMMED YASEEN",
+    "class": "4"
+  },
+  {
+    "admissionNo": "688",
+    "name": "Nasim H",
+    "class": "4"
+  },
+  {
+    "admissionNo": "658",
+    "name": "REZIN MUHAMMED K",
+    "class": "4"
+  },
+  {
+    "admissionNo": "668",
+    "name": "SHADIN V",
+    "class": "4"
+  },
+  {
+    "admissionNo": "680",
+    "name": "SHARULSHA P.S",
+    "class": "4"
+  },
+  {
+    "admissionNo": "675",
+    "name": "THWAHA YASEEN A N",
+    "class": "4"
+  },
+  {
+    "admissionNo": "586",
+    "name": "MUHAMMAD SALIH",
+    "class": "5"
+  },
+  {
+    "admissionNo": "600",
+    "name": "ASHMIL BIN AHAMED",
+    "class": "5"
+  },
+  {
+    "admissionNo": "611",
+    "name": "Mohammed Yasin T",
+    "class": "5"
+  },
+  {
+    "admissionNo": "614",
+    "name": "MUHAMMAD MUSTHAFA. M.S",
+    "class": "5"
+  },
+  {
+    "admissionNo": "615",
+    "name": "P.JIYAD EBRAHIM",
+    "class": "5"
+  },
+  {
+    "admissionNo": "616",
+    "name": "ASIF SAVAD KS",
+    "class": "5"
+  },
+  {
+    "admissionNo": "617",
+    "name": "ABDUL BASITH PK",
+    "class": "5"
+  },
+  {
+    "admissionNo": "618",
+    "name": "MUHAMMED SUHAIL PH",
+    "class": "5"
+  },
+  {
+    "admissionNo": "619",
+    "name": "MUHAMMAD NASEEF A N",
+    "class": "5"
+  },
+  {
+    "admissionNo": "620",
+    "name": "MOHAMMED SHAYAN.E.S",
+    "class": "5"
+  },
+  {
+    "admissionNo": "622",
+    "name": "AMEEN FATHAH",
+    "class": "5"
+  },
+  {
+    "admissionNo": "623",
+    "name": "MUHAMMED SHIBIN NK",
+    "class": "5"
+  },
+  {
+    "admissionNo": "624",
+    "name": "Muhammed Danish AT",
+    "class": "5"
+  },
+  {
+    "admissionNo": "625",
+    "name": "FAIROOZ RAHMAN",
+    "class": "5"
+  },
+  {
+    "admissionNo": "626",
+    "name": "MUHAMMED ANSIL. P.S",
+    "class": "5"
+  },
+  {
+    "admissionNo": "627",
+    "name": "Hibathu rahman",
+    "class": "5"
+  },
+  {
+    "admissionNo": "628",
+    "name": "E. A MUHAMMAD HASAN",
+    "class": "5"
+  },
+  {
+    "admissionNo": "629",
+    "name": "N THOUFEEK",
+    "class": "5"
+  },
+  {
+    "admissionNo": "633",
+    "name": "MOHAMMED FADHIL",
+    "class": "5"
+  },
+  {
+    "admissionNo": "634",
+    "name": "MOHAMMED JAMSHID P S",
+    "class": "5"
+  },
+  {
+    "admissionNo": "635",
+    "name": "MUHAMMED SAHIL.T.S",
+    "class": "5"
+  },
+  {
+    "admissionNo": "636",
+    "name": "MOHAMED ASHFAQU AP",
+    "class": "5"
+  },
+  {
+    "admissionNo": "638",
+    "name": "ADIL MUHAMMAD M",
+    "class": "5"
+  },
+  {
+    "admissionNo": "639",
+    "name": "MIRSHAD MP",
+    "class": "5"
+  },
+  {
+    "admissionNo": "640",
+    "name": "AHMAD AMMAR C",
+    "class": "5"
+  },
+  {
+    "admissionNo": "642",
+    "name": "AHAMED SABEEH",
+    "class": "5"
+  },
+  {
+    "admissionNo": "643",
+    "name": "ISMAYIL",
+    "class": "5"
+  },
+  {
+    "admissionNo": "644",
+    "name": "MOHAMMED HISHAM THANGAL P. A",
+    "class": "5"
+  },
+  {
+    "admissionNo": "645",
+    "name": "JALALUDHEEN KS",
+    "class": "5"
+  },
+  {
+    "admissionNo": "647",
+    "name": "MUHAMMED AMEEN P",
+    "class": "5"
+  },
+  {
+    "admissionNo": "648",
+    "name": "MUHAMMAD UWAIS EU",
+    "class": "5"
+  },
+  {
+    "admissionNo": "649",
+    "name": "MUHAMMED ISMAEEL T S",
+    "class": "5"
+  },
+  {
+    "admissionNo": "650",
+    "name": "ADHIL SHAHZAD",
+    "class": "5"
+  },
+  {
+    "admissionNo": "651",
+    "name": "MUHAMMED NIYAS K",
+    "class": "5"
+  },
+  {
+    "admissionNo": "652",
+    "name": "AHAMAD HAMDAN",
+    "class": "5"
+  },
+  {
+    "admissionNo": "653",
+    "name": "MUHAMMED ADIL KK",
+    "class": "5"
+  },
+  {
+    "admissionNo": "654",
+    "name": "MUHAMMED ABRAR N.V",
+    "class": "5"
+  },
+  {
+    "admissionNo": "657",
+    "name": "ADIL MUHAMED",
+    "class": "5"
+  },
+  {
+    "admissionNo": "569",
+    "name": "ASSAYID MOHAMMED SABITH THANGAL",
+    "class": "6"
+  },
+  {
+    "admissionNo": "570",
+    "name": "MOHAMMED RAUF",
+    "class": "6"
+  },
+  {
+    "admissionNo": "572",
+    "name": "MUHAMMAD HALEEM JABIR",
+    "class": "6"
+  },
+  {
+    "admissionNo": "573",
+    "name": "MUHAMMED JUNAID",
+    "class": "6"
+  },
+  {
+    "admissionNo": "574",
+    "name": "JESEEM AHAMMED KOTTANGODAN",
+    "class": "6"
+  },
+  {
+    "admissionNo": "575",
+    "name": "MUHAMMED FAYAZ A B",
+    "class": "6"
+  },
+  {
+    "admissionNo": "576",
+    "name": "MUHAMMED MAHFOOZ TWAHIR",
+    "class": "6"
+  },
+  {
+    "admissionNo": "577",
+    "name": "SAINUL IHSAN C S",
+    "class": "6"
+  },
+  {
+    "admissionNo": "578",
+    "name": "AHAMMED ZIYAN K P",
+    "class": "6"
+  },
+  {
+    "admissionNo": "580",
+    "name": "ADHIL MUHAMMAD",
+    "class": "6"
+  },
+  {
+    "admissionNo": "581",
+    "name": "MUHAMMAD NIHAL",
+    "class": "6"
+  },
+  {
+    "admissionNo": "582",
+    "name": "MUHAMMED NABEEL.P.S",
+    "class": "6"
+  },
+  {
+    "admissionNo": "583",
+    "name": "MUHAMMED RISHAN U",
+    "class": "6"
+  },
+  {
+    "admissionNo": "584",
+    "name": "MUHAMMED AJSAL M",
+    "class": "6"
+  },
+  {
+    "admissionNo": "585",
+    "name": "REHAN ALKHAIR",
+    "class": "6"
+  },
+  {
+    "admissionNo": "587",
+    "name": "ISMAIL",
+    "class": "6"
+  },
+  {
+    "admissionNo": "588",
+    "name": "AHMED FAHIM K M",
+    "class": "6"
+  },
+  {
+    "admissionNo": "590",
+    "name": "MUHAMMED ASHIF T K",
+    "class": "6"
+  },
+  {
+    "admissionNo": "591",
+    "name": "MUHAMMED SINAN C P",
+    "class": "6"
+  },
+  {
+    "admissionNo": "592",
+    "name": "RAZI AYMAN K",
+    "class": "6"
+  },
+  {
+    "admissionNo": "593",
+    "name": "MUHAMMED SADIK C.A.",
+    "class": "6"
+  },
+  {
+    "admissionNo": "594",
+    "name": "MUHAMMED SUHAIL",
+    "class": "6"
+  },
+  {
+    "admissionNo": "595",
+    "name": "NISHAN MOHAMMED C",
+    "class": "6"
+  },
+  {
+    "admissionNo": "597",
+    "name": "MOHAMMED SHAHEEM K",
+    "class": "6"
+  },
+  {
+    "admissionNo": "598",
+    "name": "MOHAMMED AFLAH.K",
+    "class": "6"
+  },
+  {
+    "admissionNo": "601",
+    "name": "MUHAMMED SHAMEEM.K",
+    "class": "6"
+  },
+  {
+    "admissionNo": "602",
+    "name": "NIHAL NAZAR.",
+    "class": "6"
+  },
+  {
+    "admissionNo": "603",
+    "name": "MUHAMMED SHADIL NK",
+    "class": "6"
+  },
+  {
+    "admissionNo": "604",
+    "name": "MOHAMMED BATHSHA. M",
+    "class": "6"
+  },
+  {
+    "admissionNo": "605",
+    "name": "AL SABITH",
+    "class": "6"
+  },
+  {
+    "admissionNo": "606",
+    "name": "UVAISE A",
+    "class": "6"
+  },
+  {
+    "admissionNo": "607",
+    "name": "MUHAMMED SAWAD",
+    "class": "6"
+  },
+  {
+    "admissionNo": "608",
+    "name": "HASHIR MOHAMMED PM",
+    "class": "6"
+  },
+  {
+    "admissionNo": "609",
+    "name": "MUHAMMED SAHL.M. S",
+    "class": "6"
+  },
+  {
+    "admissionNo": "610",
+    "name": "SUBHAN SUBAIR",
+    "class": "6"
+  },
+  {
+    "admissionNo": "612",
+    "name": "FIDHAN FAISAL",
+    "class": "6"
+  },
+  {
+    "admissionNo": "613",
+    "name": "MOHAMMED RIZWAAN K.V",
+    "class": "6"
+  },
+  {
+    "admissionNo": "544",
+    "name": "ABDUL JABBAR P A",
+    "class": "6"
+  },
+  {
+    "admissionNo": "532",
+    "name": "MUHAMMED MISHAB",
+    "class": "6"
+  },
+  {
+    "admissionNo": "548",
+    "name": "MUHAMMAD ZIYAD",
+    "class": "6"
+  },
+  {
+    "admissionNo": "550",
+    "name": "MUHAMMED HAMDAN",
+    "class": "6"
+  },
+  {
+    "admissionNo": "560",
+    "name": "MUHAMMED RABEEH A S",
+    "class": "6"
+  },
+  {
+    "admissionNo": "545",
+    "name": "AHAMMAD SAINUDEEN",
+    "class": "7"
+  },
+  {
+    "admissionNo": "538",
+    "name": "AL AMEEN .M.S",
+    "class": "7"
+  },
+  {
+    "admissionNo": "564",
+    "name": "BISHIR MUHAMMED.P",
+    "class": "7"
+  },
+  {
+    "admissionNo": "534",
+    "name": "JASIL TJ",
+    "class": "7"
+  },
+  {
+    "admissionNo": "553",
+    "name": "MUHAMMAD ANSHIF M K",
+    "class": "7"
+  },
+  {
+    "admissionNo": "495",
+    "name": "ANWAR SADHATH AN",
+    "class": "7"
+  },
+  {
+    "admissionNo": "557",
+    "name": "MUHAMMAD ABDUL RASHEED",
+    "class": "7"
+  },
+  {
+    "admissionNo": "529",
+    "name": "Arshad AK",
+    "class": "7"
+  },
+  {
+    "admissionNo": "551",
+    "name": "MUHAMMAD SAHEL.C.P.",
+    "class": "7"
+  },
+  {
+    "admissionNo": "559",
+    "name": "MUHAMMAD YASEEN P I",
+    "class": "7"
+  },
+  {
+    "admissionNo": "539",
+    "name": "MUHAMMED AMEEN",
+    "class": "7"
+  },
+  {
+    "admissionNo": "536",
+    "name": "MUHAMMED ASHIQUE",
+    "class": "7"
+  },
+  {
+    "admissionNo": "552",
+    "name": "MUHAMMED DILSHAD",
+    "class": "7"
+  },
+  {
+    "admissionNo": "549",
+    "name": "MUHAMMED FAVAS K",
+    "class": "7"
+  },
+  {
+    "admissionNo": "507",
+    "name": "Muhammad Anas",
+    "class": "7"
+  },
+  {
+    "admissionNo": "567",
+    "name": "MUHAMMED FAYIZ V N",
+    "class": "7"
+  },
+  {
+    "admissionNo": "540",
+    "name": "MUHAMMED IHSAN",
+    "class": "7"
+  },
+  {
+    "admissionNo": "568",
+    "name": "MUHAMMED JALAL E",
+    "class": "7"
+  },
+  {
+    "admissionNo": "535",
+    "name": "MUHAMMED MA-AMOON",
+    "class": "7"
+  },
+  {
+    "admissionNo": "499",
+    "name": "Muhammed Mabrook KS",
+    "class": "7"
+  },
+  {
+    "admissionNo": "558",
+    "name": "MUHAMMED SINAN",
+    "class": "7"
+  },
+  {
+    "admissionNo": "516",
+    "name": "Muhammed Ramees TP",
+    "class": "7"
+  },
+  {
+    "admissionNo": "537",
+    "name": "MUHAMMED SINAN K M",
+    "class": "7"
+  },
+  {
+    "admissionNo": "480",
+    "name": "MUHAMMED RIBIN FATHAH K.P",
+    "class": "7"
+  },
+  {
+    "admissionNo": "533",
+    "name": "SAJAD P S",
+    "class": "7"
+  },
+  {
+    "admissionNo": "543",
+    "name": "SWABAH.C.A",
+    "class": "7"
+  },
+  {
+    "admissionNo": "518",
+    "name": "Muhsin Mubarak",
+    "class": "7"
+  },
+  {
+    "admissionNo": "525",
+    "name": "Abdul Basith N",
+    "class": "8"
+  },
+  {
+    "admissionNo": "500",
+    "name": "Absar Salim",
+    "class": "8"
+  },
+  {
+    "admissionNo": "502",
+    "name": "Ahamed Sinan",
+    "class": "8"
+  },
+  {
+    "admissionNo": "494",
+    "name": "AHMAD FAYAS CA",
+    "class": "8"
+  },
+  {
+    "admissionNo": "489",
+    "name": "AJMAL P",
+    "class": "8"
+  },
+  {
+    "admissionNo": "498",
+    "name": "Ali Ahmmad AA",
+    "class": "8"
+  },
+  {
+    "admissionNo": "476",
+    "name": "HANISH MUHAMMED",
+    "class": "8"
+  },
+  {
+    "admissionNo": "473",
+    "name": "IRFAN P NAISAL",
+    "class": "8"
+  },
+  {
+    "admissionNo": "524",
+    "name": "Anees Muhammed VS",
+    "class": "8"
+  },
+  {
+    "admissionNo": "491",
+    "name": "MAZIN ROSHAN",
+    "class": "8"
+  },
+  {
+    "admissionNo": "506",
+    "name": "Aslam Ayoob",
+    "class": "8"
+  },
+  {
+    "admissionNo": "517",
+    "name": "Jaseem Abdul Azeez KK",
+    "class": "8"
+  },
+  {
+    "admissionNo": "522",
+    "name": "Jiyad Ahmad",
+    "class": "8"
+  },
+  {
+    "admissionNo": "474",
+    "name": "Minhaj PN",
+    "class": "8"
+  },
+  {
+    "admissionNo": "531",
+    "name": "Mohammed Abdul Basith KP",
+    "class": "8"
+  },
+  {
+    "admissionNo": "456",
+    "name": "MUHAMMED IRFAN ARACKAL.SHAREEF",
+    "class": "8"
+  },
+  {
+    "admissionNo": "530",
+    "name": "Mohammed Shanil",
+    "class": "8"
+  },
+  {
+    "admissionNo": "511",
+    "name": "Muhammad PS",
+    "class": "8"
+  },
+  {
+    "admissionNo": "509",
+    "name": "Muhammad Shahid",
+    "class": "8"
+  },
+  {
+    "admissionNo": "493",
+    "name": "Muhammed Afnan PK",
+    "class": "8"
+  },
+  {
+    "admissionNo": "465",
+    "name": "Muhammed Afreed",
+    "class": "8"
+  },
+  {
+    "admissionNo": "503",
+    "name": "Muhammed Ihsan",
+    "class": "8"
+  },
+  {
+    "admissionNo": "523",
+    "name": "Muhammed Irfan KM",
+    "class": "8"
+  },
+  {
+    "admissionNo": "519",
+    "name": "Muhammed Jiyad",
+    "class": "8"
+  },
+  {
+    "admissionNo": "496",
+    "name": "Muhammed Rizvan V",
+    "class": "8"
+  },
+  {
+    "admissionNo": "505",
+    "name": "Munavarsha Kamal",
+    "class": "8"
+  },
+  {
+    "admissionNo": "514",
+    "name": "Salsabeel MH",
+    "class": "8"
+  },
+  {
+    "admissionNo": "482",
+    "name": "THAHA SHABEEB",
+    "class": "9"
+  },
+  {
+    "admissionNo": "490",
+    "name": "SAFEER ALI",
+    "class": "9"
+  },
+  {
+    "admissionNo": "452",
+    "name": "MUHAMMED SINAN N.M",
+    "class": "9"
+  },
+  {
+    "admissionNo": "458",
+    "name": "MUHAMMED SHAFI",
+    "class": "9"
+  },
+  {
+    "admissionNo": "433",
+    "name": "Muhammed Safwan K",
+    "class": "9"
+  },
+  {
+    "admissionNo": "449",
+    "name": "Muhammed Razik",
+    "class": "9"
+  },
+  {
+    "admissionNo": "484",
+    "name": "Muhammed Fahim A",
+    "class": "9"
+  },
+  {
+    "admissionNo": "454",
+    "name": "MOHAMMED SUHAIL",
+    "class": "9"
+  },
+  {
+    "admissionNo": "468",
+    "name": "MOHAMMED SANIB MUFEED K.T",
+    "class": "9"
+  },
+  {
+    "admissionNo": "453",
+    "name": "FUADUDEEN",
+    "class": "9"
+  },
+  {
+    "admissionNo": "485",
+    "name": "AFTHAB ABDUL KADER",
+    "class": "9"
+  },
+  {
+    "admissionNo": "782",
+    "name": "MINHAJ PC",
+    "class": "9"
+  },
+  {
+    "admissionNo": "780",
+    "name": "MOHAMMED ASLAM KC",
+    "class": "9"
+  },
+  {
+    "admissionNo": "781",
+    "name": "MOHAMMED SHANIF P",
+    "class": "9"
+  },
+  {
+    "admissionNo": "785",
+    "name": "Ahammed safvan KT",
+    "class": "9"
+  },
+  {
+    "admissionNo": "786",
+    "name": "MUHAMMED AMEEN T",
+    "class": "9"
+  },
+  {
+    "admissionNo": "392",
+    "name": "Sainul Abid",
+    "class": "10"
+  },
+  {
+    "admissionNo": "389",
+    "name": "Mohammed Nafih",
+    "class": "10"
+  },
+  {
+    "admissionNo": "441",
+    "name": "Muhammed Unais K A",
+    "class": "10"
+  },
+  {
+    "admissionNo": "426",
+    "name": "Muhammed Shahid",
+    "class": "10"
+  },
+  {
+    "admissionNo": "419",
+    "name": "Muhammed Fasalul Abidheen",
+    "class": "10"
+  },
+  {
+    "admissionNo": "417",
+    "name": "Muhammed Fahim",
+    "class": "10"
+  },
+  {
+    "admissionNo": "373",
+    "name": "Mehthab Muneer",
+    "class": "10"
+  },
+  {
+    "admissionNo": "414",
+    "name": "Haris Ashraf",
+    "class": "10"
+  },
+  {
+    "admissionNo": "440",
+    "name": "Irfaan Farhathu E C",
+    "class": "10"
+  },
+  {
+    "admissionNo": "439",
+    "name": "Al Ameen S",
+    "class": "10"
+  },
+  {
+    "admissionNo": "421",
+    "name": "Muhammed Ibrahim Badusha Sudheer",
+    "class": "10"
+  },
+  {
+    "admissionNo": "442",
+    "name": "Muhammed Adil",
+    "class": "10"
+  },
+  {
+    "admissionNo": "420",
+    "name": "Ashiq Muhammed P",
+    "class": "10"
+  },
+  {
+    "admissionNo": "436",
+    "name": "Razal Abdul Rahman P.E",
+    "class": "10"
+  },
+  {
+    "admissionNo": "428",
+    "name": "Muhammed Imran S",
+    "class": "10"
+  },
+  {
+    "admissionNo": "429",
+    "name": "Ahammed Nabeel A",
+    "class": "10"
+  },
+  {
+    "admissionNo": "447",
+    "name": "Abrar Salim",
+    "class": "10"
+  },
+  {
+    "admissionNo": "416",
+    "name": "Tariq Anwar K.P",
+    "class": "10"
+  },
+  {
+    "admissionNo": "705",
+    "name": "BASIM AHAMMED",
+    "class": "10"
+  },
+  {
+    "admissionNo": "704",
+    "name": "MUHAMMED RASHAD PT",
+    "class": "10"
+  },
+  {
+    "admissionNo": "703",
+    "name": "MUNSHID P",
+    "class": "10"
+  },
+  {
+    "admissionNo": "706",
+    "name": "JAFAKASH JAHAN",
+    "class": "10"
+  },
+  {
+    "admissionNo": "357",
+    "name": "Muhammad Junaid K.U",
+    "class": "10"
+  },
+  {
+    "admissionNo": "435",
+    "name": "Muhammed Uwaiz K A",
+    "class": "10"
+  }
+]
